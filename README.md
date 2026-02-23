@@ -1,5 +1,5 @@
 # African Economic Risk Analysis
-##MSc Data Science Project
+## MSc Data Science Project
 
 This project explores whether short-term economic dynamics in African countries can be explained by internal macroeconomic conditions, rather than only by external factors such as oil or commodity dependence.
 
